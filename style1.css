@@ -1,0 +1,41 @@
+* {
+    margin: 0%;
+    padding: 0%;
+
+}
+.container {
+    display: grid;
+    grid-template-columns: 990px 680px 280px;
+}
+.item {
+    height: 900px;
+}
+.item1 h1 {
+    margin: 260px 0px 50px 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 47px;
+}
+.item1 p {
+    margin-left: 100px;
+    margin-right: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.item1 button {
+    background-color: black;
+    color: white;
+    padding: 12px 50px 12px 50px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px 0px 0px 100px;
+}
+.item2 img{
+    height: 900px;
+    width: 690px;
+} 
+.item3 {
+    background-color: yellow;
+}
